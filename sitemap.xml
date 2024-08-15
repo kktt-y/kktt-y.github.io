@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.seagate.email/post/</loc>
-    <lastmod>2024-08-15T17:26:00+08:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2024-08-15T17:28:35+08:00</lastmod>
   </url><url>
-    <loc>https://www.seagate.email/</loc>
-    <lastmod>2024-08-15T17:26:00+08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2024-08-15T17:28:35+08:00</lastmod>
   </url><url>
-    <loc>https://www.seagate.email/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://www.seagate.email/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>https://www.seagate.email/links/</loc>
+    <loc>/links/</loc>
   </url><url>
-    <loc>https://www.seagate.email/search/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>https://www.seagate.email/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://www.seagate.email/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://www.seagate.email/posts/</loc>
+    <loc>/posts/</loc>
   </url>
 </urlset>
